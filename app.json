@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/PRADHAN474/ALSPAM",
+    "repository": "https://github.com/Ayushcoderop/ALSPAM",
     "env": {
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
@@ -32,7 +32,7 @@
       },
       "BOT_TOKEN5": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
-        "value": "",
+        "value": "",a
         "required": true
       },
       "BOT_TOKEN6": {
